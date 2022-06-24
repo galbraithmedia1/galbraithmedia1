@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🎥 Check out my [Film Portfolio](https://www.taylorgalbraith.com/) 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=galbraithmedia1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=134F85">
+<img src="https://github-readme-stats.vercel.app/api?username=galbraithmedia1&&show_icons=true&title_color=ffffff&icon_color=21FDFB&text_color=daf7dc&bg_color=134F85">
