@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/taylor galbraith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taylor galbraith" height="30" width="40" /></a>
-<a href="https://instagram.com/taylor.galbraith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taylor.galbraith" height="30" width="40" /></a>
+<a href="[https://fb.com/taylor galbraith](https://www.facebook.com/taylorcgalbraith/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taylor galbraith" height="30" width="40" /></a>
+<a href="[https://instagram.com/taylor.galbraith](https://www.instagram.com/taylor.galbraith/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taylor.galbraith" height="30" width="40" /></a>
 </p>
