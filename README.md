@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Unyte Home. (Super sick top secret project. Lets talk about it)
+- 🔭 I’m currently working on Hizzy. (Super sick top secret project. Lets talk about it)
 - 🌱 I’m currently learning Javascript & Solidity.
 - 🤝 I’m looking to collaborate on a super dope AI project thats in the works.
 - 🤔 I’m looking for help on building a clean server. 
