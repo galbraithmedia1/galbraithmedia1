@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about the cool ESP32 projects I'm working on. (Weather Balloon, Satellites, off gird stuff 🛰)
 - 📫 How to reach me: galbraithmedia1@gmail.com
 - 🎥 Check out my [Film Portfolio](https://www.taylorgalbraith.com/) 
-- 📺 Check out my [YouTube Channel](www.youtube.com/@taylor.galbraith) 
+- 📺 Check out my [YouTube Channel](https://www.youtube.com/@taylor.galbraith) 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=galbraithmedia1&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=134F85">
