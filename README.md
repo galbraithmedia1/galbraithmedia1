@@ -1,8 +1,6 @@
 ### Hey what's up! I'm Taylor Galbraith! 👋
 
-![Snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output/github-contribution-grid-snake.svg)
-
-![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/main/dist/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/<your-username>/<your-repository>/blob/main/dist/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
