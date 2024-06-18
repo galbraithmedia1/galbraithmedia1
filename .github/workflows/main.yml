@@ -1,8 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # execute every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      # Snake Animation
+      # Generate Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3.0.0
         with:
