@@ -2,6 +2,9 @@
 
 ![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/main/dist/github-contribution-grid-snake.svg)
 
+![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/main/dist/github-contribution-grid-snake.gif)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hizzy. (Super sick top secret project. Lets talk about it)
