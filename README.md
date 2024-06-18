@@ -2,7 +2,6 @@
 
 ![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output//github-contribution-grid-snake.svg)
 
-![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output/github-contribution-grid-snake.gif)
 
 
 
