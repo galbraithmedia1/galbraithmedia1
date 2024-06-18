@@ -1,6 +1,6 @@
 ### Hey what's up! I'm Taylor Galbraith! 👋
 
-![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/main/dist/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output//github-contribution-grid-snake.svg)
 
 ![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output/github-contribution-grid-snake.gif)
 
