@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Hizzy. (Super sick top secret project. Lets talk about it)
+- 🔭 I’m currently working on Parlay. 
 - 📡 I’m currently designing an embedded system that runs on C++ and an ESP32.
 - 🤝 I’m looking to collaborate on a super dope AI project thats in the works.
 - 💬 Ask me about the cool ESP32 projects I'm working on. (Weather Balloon, Satellites, off gird stuff 🛰)
